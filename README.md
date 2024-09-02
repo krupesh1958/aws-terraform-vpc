@@ -5,6 +5,8 @@
 2. IAM role with necessary permissions
 3. Terraform (Version : v1.9.4)
 
+# Note
+The current Terraform configuration does not include a load balancer.
 
 # Follow Below Steps to RUN Terraform snippet
 
