@@ -9,22 +9,21 @@
 # Follow Below Steps to RUN Terraform snippet
 
 1. Create folder and Clone this repo.
-2. Change required variable value
-3. Initialize terraform using 
+2. Initialize terraform using 
 ```bash
 terraform init
 ```
-4. Show changes required by the current configuration 
+3. Show changes required by the current configuration 
 ```bash
 terraform plan
 ```
-5. Create or update infrastructure 
+4. Create or update infrastructure 
 ```bash
 terraform apply
 ```
 Your infra is ready to use now.
 
-6. Destroy previously-created infrastructure 
+5. Destroy previously-created infrastructure 
 ```bash
 terraform destroy
 ```
