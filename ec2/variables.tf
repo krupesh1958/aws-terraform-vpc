@@ -6,6 +6,6 @@ variable "key_name" {
 
 variable "db_instance_password" {
   type        = string
-  default     = "foobarbaz"
+  default     = "foofoo"
   description = "The password for the RDS instance"
 }
